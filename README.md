@@ -55,9 +55,9 @@ Experienced in end-to-end system design, API integrations, and cloud-native envi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaz-d-carey&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chaz-d-carey&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaz-d-carey&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chaz-d-carey&layout=compact&theme=dark&hide_border=true)
 
 ---
 
